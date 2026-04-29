@@ -1,0 +1,5 @@
+git branch -vv
+
+main               [origin/main] Merge pull request
+bug-fix-typo       Fix typo: update footer year to 2023
+bug-fix-revert     Revert: change footer year back to 2022
